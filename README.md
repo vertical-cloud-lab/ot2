@@ -1,5 +1,9 @@
 # OT2 Robot Hardware Files
 
+### Investigations
+
+- [Custom-labware `LabwareHeightError` investigation](docs/custom-labware-height-error-investigation.md) — why the wireless color-sensor custom labware fails calibration with a "too tall" error, why downgrading the OT-2/App did not help, and how to adapt.
+
 ### Open-source & Customization Documentation
 
 Opentrons strives to make all of our technology as open to customization and extension as possible. In addition to providing all of our code in open-source repositories and developing all of our software in a transparent way, we are providing these hardware files for our community to modify their OT-2 robots however they choose.
